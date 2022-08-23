@@ -1,4 +1,4 @@
-# Salut 👋 ! C'est Cyril !
+# Salut 👋, C'est Cyril !
 
 Bienvenue sur mon github.
 
